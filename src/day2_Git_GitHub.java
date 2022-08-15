@@ -13,8 +13,12 @@ göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak
             git push -u origin master
 Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız.git add .
+
+            Github öğrenecem inşallah
  */
-    /*
+   
+            
+ /*
     İlk defa PUSH yapacaksanız bir projeyi ;
 
 1 - Önce GitHub a gidip New Repository i oluşturun
