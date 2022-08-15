@@ -40,6 +40,8 @@ her yeni eklediğiniz şeyden sonra GitHub'a yüklemek için
 11 - git push
 
 
-hepsi bu kadar git log --oneline
+hepsi bu kadar
+git commit -a -m "mesaj" ilk add den sonra bununla kısa olarak kayıt yapabiliriz
+
      */
 }
